@@ -1,4 +1,6 @@
 ---
 layout: default
 ---
-## Publication
+### 結縁祥治 (Shoji Yuen)
+
+## 業績リスト
