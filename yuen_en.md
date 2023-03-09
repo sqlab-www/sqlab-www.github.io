@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Shoji Yuen [Japanese](./yuen)
+# Shoji Yuen [[Japanese](./yuen)]
 
 Doctor(Engineering) (Nagoya University)
 
