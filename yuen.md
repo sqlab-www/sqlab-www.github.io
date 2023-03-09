@@ -10,9 +10,9 @@ layout: default
 * 可逆並行計算モデル
 * 可逆プログラミング言語
 
-## 業績リスト
+## 研究
 
-1. L. Bocci, I. Lanese, C.A. Mezzina, Shoji Yuen: "The Reversible Temporal Process Langugage", FORTE 2022: 31-49
+* [論文リスト](https://dblp.org/pid/71/4155.html)
 
 ## 担当講義
 
