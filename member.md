@@ -6,7 +6,7 @@ layout: default
 ## <a name="staff"></a>Staff
 ### 教職員
 
-* [Shoji YUEN 結縁祥治] (./yuen) (Professor 教授)
+* [Shoji YUEN 結縁祥治](yuen.md) (Professor 教授)
 * [Koji NAKAZAWA 中澤巧爾](https://knaknak.github.io) (Associate Professor 准教授)
 
 * Makiko MURASE 村瀬麻木子 (Secretary 事務補助)
