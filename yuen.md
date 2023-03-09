@@ -3,6 +3,8 @@ layout: default
 ---
 # 結縁祥治 (Shoji Yuen) [[English](./yuen_en)]
 
+![結縁](./assets/images/papa2-small.JPG)
+
 博士(工学) (名古屋大学)
 
 [名古屋大学](https://www.nagoya-u.ac.jp) [大学院情報学研究科](https://www.i.nagoya-u.ac.jp) 
