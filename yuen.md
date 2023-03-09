@@ -1,7 +1,14 @@
 ---
 layout: default
 ---
-# 結縁祥治 (Shoji Yuen)
+# 結縁祥治 (Shoji Yuen) [English](./yuen_en)
+
+博士(工学) (名古屋大学)
+
+[名古屋大学](https://www.nagoya-u.ac.jp) [大学院情報学研究科](https://www.i.nagoya-u.ac.jp) 
+[情報システム学専攻](https://www.i.nagoya-u.ac.jp/gs/css/) ソフトウェア論講座　教授
+
+yuen[at]sqlab.jp
 
 ## 研究トピック
 
@@ -12,7 +19,7 @@ layout: default
 
 ## 研究
 
-* [論文リスト](https://dblp.org/pid/71/4155.html)
+* [論文リスト(dblp)](https://dblp.org/pid/71/4155.html)
 
 ## 担当講義
 
