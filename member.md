@@ -15,7 +15,7 @@ layout: default
 
 ### Master Students 博士前期課程
 
-* Yeonseok LEE (M2)
+* [Yeonseok LEE](https://sites.google.com/view/free0832/home) (M2)
 
 * Seiichirou TACHI 城聖一郎 (M1)
 * Yusuke AKAIKE 赤池祐介 (M1)
