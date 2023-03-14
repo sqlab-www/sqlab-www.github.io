@@ -17,14 +17,14 @@ layout: default
 
 * [Yeonseok LEE](https://sites.google.com/view/free0832/home) (M2)
 
-* Seiichirou TACHI 城聖一郎 (M1)
-* Yusuke AKAIKE 赤池祐介 (M1)
-* Masahiro HORI 堀昌宏 (M1)
+* [Seiichirou TACHI](student/s_tachi_en) [城聖一郎](student/s_tachi) (M1)
+* [Yusuke AKAIKE](student/akaike_y_en) [赤池祐介](student/akaike_y) (M1)
+* [Masahiro HORI](student/hori_1603_en) [堀昌宏](student/hori_1603) (M1)
 
 ### Bachelor Students 学部4年生
 
 * [Shunya OGUCHI](student/oguchi321_en) [小口隼矢](student/oguchi321) (B4)
-* Yasuaki SUGIURA 杉浦康朗 (B4)
+* [Yasuaki SUGIURA](student/sugiura_y_en) [杉浦康朗](student/sugiura_y) (B4)
 * Ayumu KAWASAKI 川崎歩武 (B4)
 
 <!--[back](./)-->

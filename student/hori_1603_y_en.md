@@ -3,7 +3,7 @@ layout: default
 lang: en
 ---
 
-## Seiichiro Tachi [[Japanese](./s_tachi)]
+## Masahiro Hori [[Japanese](./hori_1603)]
 
 - Department of Computing and Software Science, Graduate School of Informatics, M1
-- Email: s_tachi [at] sqlab.jp
+- Email: hori_1603 [at] sqlab.jp

@@ -3,7 +3,7 @@ layout: default
 lang: en
 ---
 
-## Seiichiro Tachi [[Japanese](./s_tachi)]
+## Yusuke Akaike [[Japanese](./akaike_y)]
 
 - Department of Computing and Software Science, Graduate School of Informatics, M1
-- Email: s_tachi [at] sqlab.jp
+- Email: akaike_y [at] sqlab.jp
