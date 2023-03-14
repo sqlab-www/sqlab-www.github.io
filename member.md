@@ -23,7 +23,7 @@ layout: default
 
 ### Bachelor Students 学部4年生
 
-* Shunya OGUCHI 小口隼矢 (B4)
+* [Shunya OGUCHI](student/oguchi_en) [小口隼矢](student/oguchi) (B4)
 * Yasuaki SUGIURA 杉浦康朗 (B4)
 * Ayumu KAWASAKI 川崎歩武 (B4)
 
