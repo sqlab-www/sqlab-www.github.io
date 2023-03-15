@@ -26,7 +26,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ## Access
 
-## Links
+* [Direction](./access_en) [ご案内](./access)
+
+## [Links](./links)
 
 <!--
 > This is a blockquote following a header.

@@ -4,6 +4,7 @@ layout: default
 
 ## Related Links
 
-_yay_
+- [Graduate School of Informatics](https://www.i.nagoya-u.ac.jp)
+- [Nagoya University](https://www.nagoya-u.ac.jp)
 
 [back](./)
