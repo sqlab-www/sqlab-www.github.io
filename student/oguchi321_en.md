@@ -5,5 +5,5 @@ lang: en
 
 # Shunya Oguchi [[Japanese](./oguchi321)]
 
-- Department of Computer Science, School of Informatics, B4
+- Department of Computing and Software Science, Gradiate School of Informatics, M1
 - oguchi321[-at-]sqlab.jp
