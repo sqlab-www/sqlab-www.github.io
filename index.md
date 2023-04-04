@@ -12,19 +12,19 @@ There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 -->
 
-## Research
+## Research(研究)
 
 * [Theory and application for concurrency(実時間並行ソフトウェア開発手法)](./research.html#concurrency) 
 * [Program analysis and verificaiton(プログラム解析・プログラム検証)](./research.html#programming)
 
-## Member
+## Member（メンバー）
 
 * [Staff(教職員)](./member.html#staff)
 * [Students(学生)](./member.html#students)
 
-## Events
+## [Events（イベント）](./events)
 
-## Access
+## Access(アクセス)
 
 * [Direction](./access_en) [ご案内](./access)
 
