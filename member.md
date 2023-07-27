@@ -22,7 +22,7 @@ layout: default
 
 * [Seiichirou TACHI](student/s_tachi_en), [城聖一郎](student/s_tachi) (M2)
 * [Yusuke AKAIKE](student/akaike_y_en), [赤池祐介](student/akaike_y) (M2)
-* [Masahiro HORI](student/hori_1603_en), [堀昌宏](student/hori_1603) (M2)
+* [Hiromasa HORI](student/hori_1603_en), [堀宏昌](student/hori_1603) (M2)
 * [Shunya OGUCHI](student/oguchi321_en), [小口隼矢](student/oguchi321) (M1)
 * [Yasuaki SUGIURA](student/sugiura_y_en), [杉浦康朗](student/sugiura_y) (M1)
 <!--* Ayumu KAWASAKI 川崎歩武 (B4)-->
