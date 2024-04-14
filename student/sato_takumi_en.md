@@ -5,5 +5,5 @@ lang: en
 
 # Takumi Sato [[Japanese](./sato_takumi)]
 
-- Department of Computer Science, School of Informatics, B4
+- Department of Computing and Software Systems, Graduate School of Informatics, M1
 - sato.takumi [-at-]sqlab.jp
