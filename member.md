@@ -4,7 +4,6 @@ layout: default
 # Members
 
 ## <a name="staff"></a>Staff
-### 教職員
 
 * [Shoji YUEN 結縁祥治](yuen) (Professor 教授)
 * [Koji NAKAZAWA 中澤巧爾](https://knaknak.github.io) (Associate Professor 准教授)
