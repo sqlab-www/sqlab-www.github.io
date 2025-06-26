@@ -7,7 +7,7 @@ layout: default
 
 * [Shoji YUEN 結縁祥治](yuen) (Professor 教授)
 * [Koji NAKAZAWA 中澤巧爾](https://knaknak.github.io) (Associate Professor 准教授)
-* [Yusuke INOUE 井上裕介] (y-inoue) (Assistant Professor 助教)
+* [Yusuke INOUE 井上裕介] (y_inoue) (Assistant Professor 助教)
 
 * Makiko MURASE 村瀬麻木子 (Secretary 事務補助)
 
