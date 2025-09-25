@@ -31,6 +31,6 @@ layout: default
 * [Yoshinao TANAKA](student/tanaka_yoshinao_en), [田中良尚](student/tanaka_yoshinao) (B4)
 * [Yuichi HASEGAWA](student/hasegawa_yuichi_en), [長谷川雄一](student/hasegawa_yuichi) (B4)
 * [Soma GO](student/go_soma_en), [郷颯馬](student/go_soma) (B4)
-* [Una SADAMOTO](student/sadamoto_una_en), [貞本優菜](student/sadamoto_una) (B4)
+* [Yuna SADAMOTO](student/sadamoto_yuna_en), [貞本優菜](student/sadamoto_yuna) (B4)
 * [Kenichiro MATSUBARA](student/matsubara_kenichiro_en), [松原健一郎](student/matsubara_kenichiro) (B4)
 <!--[back](./)-->
